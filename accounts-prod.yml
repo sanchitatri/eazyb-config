@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Prod APIS."
+  contactDetails:
+    name: "Sam A - Product Owner"
+    email: "Sam.A@easybank.com"
+  onCallSupport:
+    -(555) 342-5489
+    -(555) 122-9876

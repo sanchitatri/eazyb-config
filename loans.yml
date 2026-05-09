@@ -1,0 +1,22 @@
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Eazybank loan related API"
+  contactDetails:
+    name: "John Deo"
+    email: "John.deo@gmail.com"
+  onCallSupport:
+    - (444) 3454-3453
+    - (444) 8494-3083
+
+
+
+# Either use host.docker.internal in place of localhost
+
+#  or if you are using localhost
+# docker run -e SPRING_DATASOURCE_URL=jdbc:mysql://host.docker.internal:3306/loandb \
+#  	-e SPRING_DATASOURCE_USERNAME=root \
+#  	-e SPRING_DATASOURCE_PASSWORD=javajava \
+#  	-d -p 8090:8090 sanchitatri/loans:s4

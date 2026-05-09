@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIS."
+  contactDetails:
+    name: "Aditi A - QA Lead"
+    email: "Aditi@easybank.com"
+  onCallSupport:
+    -(555) 222-4567
+    -(555) 543-6543

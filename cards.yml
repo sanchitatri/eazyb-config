@@ -1,0 +1,21 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Eazybank cards related local API"
+  contactDetails:
+    name: "John Deo"
+    email: "John.Deo@Eazybank.com"
+  onCallSupport:
+    - (444) 1234-5678
+    - (444) 3457-0832
+
+
+
+# Either use host.docker.internal in place of localhost
+
+# or if you are using localhost
+# docker run -e SPRING_DATASOURCE_URL=jdbc:mysql://host.docker.internal:3306/carddb \
+#  	-e SPRING_DATASOURCE_USERNAME=root \
+#  	-e SPRING_DATASOURCE_PASSWORD=javajava \
+#  	-d -p 9000:9000 sanchitatri/cards:s4

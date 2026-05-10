@@ -3,9 +3,9 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Production APIS."
+  message: "Welcome to EazyBank accounts related prod APIS."
   contactDetails:
-    name: "San A - Product Owner"
+    name: "Sam A - Product Owner"
     #email: "Sam.A@easybank.com"
     email: "{cipher}93ddde989af97c9257d873cd2700f192c4de164feed957592fc25daadcd295815372327a8a772aeb377b407c4e958eac"
   onCallSupport:

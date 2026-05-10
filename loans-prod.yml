@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank loans related Prod APIS."
+  message: "Welcome to EazyBank loans related Prod APIS. Now I have implement refresh bus."
   contactDetails:
     name: "Sam A - Product Owner"
     email: "Sam.A@easybank.com"

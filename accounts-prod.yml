@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIS."
+  message: "Welcome to EazyBank accounts related prod APIS. Now I have implement refresh bus."
   contactDetails:
     name: "Sam A - Product Owner"
     #email: "Sam.A@easybank.com"

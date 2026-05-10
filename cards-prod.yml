@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related Prod APIS. Now I have implement refresh bus."
+  message: "Welcome to EazyBank cards related Prod APIS. Now I have implement webhook for config refresh."
   contactDetails:
     name: "Sam A - Product Owner"
     email: "Sam.A@easybank.com"
